@@ -1,0 +1,2 @@
+create table department (dep_id integer not null, dep_name varchar(255), primary key (dep_id))
+create table employee (employee_id integer not null, employee_name varchar(255), salary integer, primary key (employee_id))
