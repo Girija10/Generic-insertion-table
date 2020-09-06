@@ -1,0 +1,14 @@
+.required{
+    color:red;
+}
+#submit-button{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 7px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+}
